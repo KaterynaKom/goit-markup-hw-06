@@ -566,6 +566,7 @@ button:focus {
 
 .contact-form {
     display: flex;
+    gap: 24px;
 }
 
 .cont-form-field {
